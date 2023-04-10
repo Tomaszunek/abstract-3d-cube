@@ -65,5 +65,5 @@ export const MainScene: Component = () => {
     animate();
   });
 
-  return <canvas id="myThreeJsCanvas"></canvas>;
+  return <canvas id="myThreeJsCanvas" />;
 };
