@@ -2,7 +2,7 @@ import { Component, createEffect } from "solid-js";
 import * as THREE from "three";
 
 const WIDTH_MARGIN = 0;
-const HEIGHT_MARGIN = 5;
+const HEIGHT_MARGIN = 6;
 
 export const MainScene: Component = () => {
   createEffect(() => {
